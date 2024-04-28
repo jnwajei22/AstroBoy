@@ -1,3 +1,6 @@
+# These are the proposed functions for my AI assitant Astro. 
+# (IP) -> The development of this function is currently in progress.
+
 1. Information Retrieval: Providing answers to questions by accessing databases, search engines, or pre-programmed knowledge bases.
 
 2. Scheduling: Managing calendars, setting reminders, and organizing appointments. (IP)
