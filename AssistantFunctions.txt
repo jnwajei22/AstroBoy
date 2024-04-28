@@ -1,0 +1,23 @@
+1. Information Retrieval: Providing answers to questions by accessing databases, search engines, or pre-programmed knowledge bases.
+
+2. Scheduling: Managing calendars, setting reminders, and organizing appointments. (IP)
+
+3. Communication: Sending and receiving emails, texts, or other forms of communication on behalf of the user. (IP)
+
+4. Task Automation: Completing routine tasks such as ordering items online, booking reservations, or making payments.
+
+5. Smart Home Control: Managing connected devices such as thermostats, lights, and appliances.
+
+6. Virtual Assistance: Providing guidance, recommendations, or instructions in various domains like cooking, fitness, or learning.
+
+7. Personalization: Learning user preferences over time and tailoring responses or recommendations accordingly.
+
+8. Entertainment: Playing music, recommending movies or shows, or engaging in casual conversation. (IP)
+
+9. Language Translation: Translating text or speech from one language to another.
+
+10. Productivity Enhancement: Offering suggestions to improve workflow, time management, or efficiency.
+
+11. Content Creation: Assisting with writing, editing, or generating content like reports, emails, or articles.
+
+12. Security: Monitoring for suspicious activity, detecting potential threats, or safeguarding sensitive information.
